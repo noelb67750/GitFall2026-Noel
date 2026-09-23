@@ -1,3 +1,5 @@
+Name: Noel Baca
+Email: noel.baca
 # GitFall2024
 
 
